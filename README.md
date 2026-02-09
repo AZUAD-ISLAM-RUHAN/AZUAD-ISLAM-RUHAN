@@ -1,5 +1,5 @@
 #<p align="center">
-  <img src="https://i.postimg.cc/KvH3DwgL/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Banner" width="100%"/>
+  <img src="https://i.postimg.cc/KvH3DwgL/Navy-Blue-Geometric-Technology-Linked-In-Banne.png" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">

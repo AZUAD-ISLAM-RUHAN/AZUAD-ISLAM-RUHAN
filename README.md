@@ -1,11 +1,3 @@
-#<p align="center">
-  <img src="https://i.postimg.cc/KvH3DwgL/Navy-Blue-Geometric-Technology-Linked-In-Banne.png" alt="Banner" width="100%"/>
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Emon;Frontend+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" />
-</h1>
-
 <h3 align="center">Frontend Developer focused on building clean, modern & user-centered web applications.</h3>
 
 <p align="center">

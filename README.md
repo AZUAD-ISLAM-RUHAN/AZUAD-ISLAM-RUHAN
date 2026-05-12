@@ -1,21 +1,43 @@
-<h3 align="center">Frontend Developer focused on building clean, modern & user-centered web applications.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Azuad+Islam+Ruhan;ML+Researcher+%7C+CSE+Student;AI-Augmented+Developer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emon35410&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AZUAD-ISLAM-RUHAN&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/CGPA-3.93-3fb950?style=flat-square&logo=academia&logoColor=white" alt="CGPA" />
+  <img src="https://img.shields.io/badge/Focus-Machine_Learning-bc8cff?style=flat-square&logo=python&logoColor=white" alt="ML" />
+  <img src="https://img.shields.io/badge/Location-Sylhet,_Bangladesh-ffa657?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔧 Exploring **React, Next.js, Tailwind CSS, Node.js & MongoDB**  
-- 🎯 Goal: Become a professional MERN Stack Developer  
-- 💼 Currently working on building full-stack applications
-- 🌱 Learning **Advanced React Patterns & System Design**
-- 👯 Open to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, JavaScript, Web Development**
-- ⚡ Fun fact: I love building clean and functional UI  
+
+- 🎓 **4th Year B.Sc. CSE** student at **Metropolitan University, Sylhet**
+- 🏆 Maintaining a stellar **CGPA of 3.93**
+- 🧠 Passionate about **Machine Learning & Data Science**
+- 🔬 Currently conducting **ML research** on student dropout in Competitive Programming
+- 🌍 Goal: Pursue **MSc abroad** — targeting **Ireland 🇮🇪 / Germany 🇩🇪 (DAAD)**
+- 💡 Operating as an **AI-Augmented Developer** — I architect systems, AI writes the boilerplate
+- 🏏 Cricketer — **CSE Python** team, MPL Tournament **Runner-Up 🥈**
+- 👔 Founder of **AR Fashion** — Bangladeshi Sarees & Three-piece brand
+- 💬 Ask me about: **Machine Learning, Data Science, Python, Competitive Programming**
+- ⚡ Fun fact: I leverage AI to handle syntax so I can focus on what truly matters — logic & models
+
+---
+
+## 🔬 Active Research
+
+> **"Decoding the Stagnation: A Machine Learning Approach to Predict Student Dropout in Competitive Programming Based on Progress-Based and Behavioral Indicators"**
+
+Building a predictive ML model using data from **96 students** on platforms like **Codeforces & LeetCode**.
+
+| Indicator Type | Features Analyzed |
+|---|---|
+| 📈 **Progress-Based** | Platform ratings, submission frequency, success rates per algorithm type |
+| 🧠 **Behavioral** | Idle intervals between sessions, problem-avoidance patterns, time-to-give-up |
 
 ---
 
@@ -25,9 +47,10 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🏠 **HomeNest** | Real Estate web application with modern UI | React, Firebase, Tailwind CSS | [Client](https://github.com/emon35410/HomeNest-Client) • [Server](https://github.com/emon35410/HomeNest-Server) |
-| 🐾 **WarmPaws** | Pet care platform for winter season | React, MongoDB, Express, Node.js | [View](https://github.com/emon35410/Assignment-9-WarmPaws-Pet-Care-in-Winter) |
-|  🩸 **BloodHeros** | Blood Donation Organization | React, MongoDB, Express, Node.js |[Client](https://github.com/emon35410/BloodHeros-Client) • [Server](https://github.com/emon35410/BloodHeros-Server) |
+| 🏠 **HomeNest** | Real estate web app with modern UI & property listings | React, Firebase, Tailwind CSS | [Client](https://github.com/AZUAD-ISLAM-RUHAN/HomeNest-Client) • [Server](https://github.com/AZUAD-ISLAM-RUHAN/HomeNest-Server) |
+| 🩸 **BloodHeros** | Blood donation platform connecting donors with recipients | React, MongoDB, Express, Node.js | [Client](https://github.com/AZUAD-ISLAM-RUHAN/BloodHeros-Client) • [Server](https://github.com/AZUAD-ISLAM-RUHAN/BloodHeros-Server) |
+| 🐾 **WarmPaws** | Pet care platform for winter season with adoption features | React, MongoDB, Express, Node.js | [View](https://github.com/AZUAD-ISLAM-RUHAN/WarmPaws) |
+| 📊 **Dropout Predictor** | ML model predicting CP dropout via behavioral indicators | Python, Scikit-learn, Pandas | [View](https://github.com/AZUAD-ISLAM-RUHAN) |
 
 </div>
 
@@ -37,17 +60,18 @@
 
 <div align="center">
 
+### 💻 Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</p>
+
 ### 📝 Markup & Styling
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-</p>
-
-### 💻 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 </p>
 
 ### ⚛️ Frontend Framework / Library
@@ -65,6 +89,14 @@
 ### 🗄️ Database
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+</p>
+
+### 🤖 ML & Data Science
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
 </p>
 
 ### 🔐 Authentication / Authorization
@@ -85,12 +117,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emon35410&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=emon35410&theme=react&hide_border=true&background=1F222E&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AZUAD-ISLAM-RUHAN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AZUAD-ISLAM-RUHAN&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon35410&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZUAD-ISLAM-RUHAN&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages"/>
 </p>
 
 ---
@@ -98,7 +130,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emon35410&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AZUAD-ISLAM-RUHAN&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -106,7 +138,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emon35410&custom_title=Emon's%20GitHub%20Activity%20Graph&bg_color=1F222E&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=FE428E&title_color=FFFFFF&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AZUAD-ISLAM-RUHAN&custom_title=Azuad's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area_color=58a6ff&title_color=FFFFFF&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -114,17 +146,17 @@
 ## 📦 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/emon35410/HomeNest-Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emon35410&repo=HomeNest-Client&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="HomeNest Client"/>
+  <a href="https://github.com/AZUAD-ISLAM-RUHAN/HomeNest-Client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZUAD-ISLAM-RUHAN&repo=HomeNest-Client&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" alt="HomeNest Client"/>
   </a>
-  <a href="https://github.com/emon35410/BloodHeros-Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emon35410&repo=BloodHeros-Client&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="BloodHeros-Client"/>
+  <a href="https://github.com/AZUAD-ISLAM-RUHAN/BloodHeros-Client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZUAD-ISLAM-RUHAN&repo=BloodHeros-Client&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" alt="BloodHeros Client"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/emon35410/Assignment-9-WarmPaws-Pet-Care-in-Winter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emon35410&repo=Assignment-9-WarmPaws-Pet-Care-in-Winter&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="WarmPaws"/>
+  <a href="https://github.com/AZUAD-ISLAM-RUHAN/WarmPaws">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZUAD-ISLAM-RUHAN&repo=WarmPaws&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" alt="WarmPaws"/>
   </a>
 </p>
 
@@ -133,27 +165,26 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://dev.to/ertugrul_emon_10" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" width="50"/>
-  </a>
-  <a href="https://linkedin.com/in/mahmudul-hasan-emon-1a413b339" target="_blank">
+  <a href="https://linkedin.com/in/azuad-islam-ruhan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
   </a>
-  <a href="https://instagram.com/ertugrul_emon_10" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50"/>
+  <a href="https://codeforces.com/profile/AZUAD-ISLAM-RUHAN" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="50"/>
   </a>
-  <a href="https://www.codechef.com/users/emonj354" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="50"/>
+  <a href="https://leetcode.com/AZUAD-ISLAM-RUHAN" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50"/>
+  </a>
+  <a href="https://kaggle.com/azuadislamruhan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="50"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer"/>
 </p>
 
 <div align="center">
-  
-
+  <i>⚡ "Engineering the future with data, logic, and deliberate precision." — Azuad Islam Ruhan</i>
 </div>

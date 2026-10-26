@@ -3,10 +3,10 @@
      Search for "TODO" before publishing: those are spots where
      you need to fill in a real link or title.
      ============================================================ -->
-
+<div align="center"><img  src="./profile.png" width="160" alt="Azuad Islam Ruhan" /></div>
 <div align="center">
 
-<img src="./profile.png" width="160" alt="Azuad Islam Ruhan" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Azuad+Islam+Ruhan+%F0%9F%91%8B;ML+%26+AI+for+Education+and+Health;Bangla+NLP+%7C+Continual+Learning+%7C+EdTech;1000%2B+Competitive+Programming+Problems" alt="Typing intro" />
 

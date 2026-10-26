@@ -1,190 +1,165 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Azuad+Islam+Ruhan;ML+Researcher+%7C+CSE+Student;AI-Augmented+Developer" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AZUAD-ISLAM-RUHAN&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/CGPA-3.93-3fb950?style=flat-square&logo=academia&logoColor=white" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Focus-Machine_Learning-bc8cff?style=flat-square&logo=python&logoColor=white" alt="ML" />
-  <img src="https://img.shields.io/badge/Location-Sylhet,_Bangladesh-ffa657?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
-
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 **4th Year B.Sc. CSE** student at **Metropolitan University, Sylhet**
-- 🏆 Maintaining a stellar **CGPA of 3.93**
-- 🧠 Passionate about **Machine Learning & Data Science**
-- 🔬 Currently conducting **ML research** on student dropout in Competitive Programming
-- 🌍 Goal: Pursue **MSc abroad** — targeting **Ireland 🇮🇪 / Germany 🇩🇪 (DAAD)**
-- 💡 Operating as an **AI-Augmented Developer** — I architect systems, AI writes the boilerplate
-- 🏏 Cricketer — **CSE Python** team, MPL Tournament **Runner-Up 🥈**
-- 👔 Founder of **AR Fashion** — Bangladeshi Sarees & Three-piece brand
-- 💬 Ask me about: **Machine Learning, Data Science, Python, Competitive Programming**
-- ⚡ Fun fact: I leverage AI to handle syntax so I can focus on what truly matters — logic & models
-
----
-
-## 🔬 Active Research
-
-> **"Decoding the Stagnation: A Machine Learning Approach to Predict Student Dropout in Competitive Programming Based on Progress-Based and Behavioral Indicators"**
-
-Building a predictive ML model using data from **96 students** on platforms like **Codeforces & LeetCode**.
-
-| Indicator Type | Features Analyzed |
-|---|---|
-| 📈 **Progress-Based** | Platform ratings, submission frequency, success rates per algorithm type |
-| 🧠 **Behavioral** | Idle intervals between sessions, problem-avoidance patterns, time-to-give-up |
-
----
-
-## 🚀 Featured Projects
+<!-- ============================================================
+     Azuad Islam Ruhan — GitHub Profile README
+     Search for "TODO" before publishing: those are spots where
+     you need to fill in a real link or title.
+     ============================================================ -->
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🏠 **HomeNest** | Real estate web app with modern UI & property listings | React, Firebase, Tailwind CSS | [Client](https://github.com/AZUAD-ISLAM-RUHAN/HomeNest-Client) • [Server](https://github.com/AZUAD-ISLAM-RUHAN/HomeNest-Server) |
-| 🩸 **BloodHeros** | Blood donation platform connecting donors with recipients | React, MongoDB, Express, Node.js | [Client](https://github.com/AZUAD-ISLAM-RUHAN/BloodHeros-Client) • [Server](https://github.com/AZUAD-ISLAM-RUHAN/BloodHeros-Server) |
-| 🐾 **WarmPaws** | Pet care platform for winter season with adoption features | React, MongoDB, Express, Node.js | [View](https://github.com/AZUAD-ISLAM-RUHAN/WarmPaws) |
-| 📊 **Dropout Predictor** | ML model predicting CP dropout via behavioral indicators | Python, Scikit-learn, Pandas | [View](https://github.com/AZUAD-ISLAM-RUHAN) |
+<img src="./profile.png" width="160" alt="Azuad Islam Ruhan" />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Azuad+Islam+Ruhan+%F0%9F%91%8B;ML+%26+AI+for+Education+and+Health;Bangla+NLP+%7C+Continual+Learning+%7C+EdTech;1000%2B+Competitive+Programming+Problems" alt="Typing intro" />
 
----
-
-## 🔧 Languages & Tools
-
-<div align="center">
-
-### 💻 Programming Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <b>Final-year CSE student · Undergraduate researcher · Building AI that works where the internet doesn't</b>
 </p>
 
-### 📝 Markup & Styling
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
+  <img src="https://img.shields.io/badge/CGPA-3.94%2F4.00-3fb950?style=for-the-badge" alt="CGPA" />
+  <img src="https://img.shields.io/badge/Graduating-Dec_2026-58a6ff?style=for-the-badge" alt="Graduating" />
+  <img src="https://img.shields.io/badge/Open_to-MSc_%2F_Research_Roles-bc8cff?style=for-the-badge" alt="Open to MSc" />
 </p>
 
-### ⚛️ Frontend Framework / Library
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js"/>
-</p>
-
-### 🖥️ Backend / Server
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/>
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-</p>
-
-### 🤖 ML & Data Science
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
-</p>
-
-### 🔐 Authentication / Authorization
-<p>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
-</p>
-
-### 🛠️ Tools / Version Control / API Testing
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+  <a href="https://linkedin.com/in/azuad-islam-ruhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://arxiv.org/abs/2608.28618"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv" /></a>
+  <a href="TODO-google-scholar-link"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="TODO-researchgate-link"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+  <a href="https://codeforces.com/profile/AZUAD-ISLAM-RUHAN"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/AZUAD-ISLAM-RUHAN"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://kaggle.com/azuadislamruhan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="mailto:TODO-your-email"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+### 👋 About
+
+I'm a 4th-year **B.Sc. CSE** student at **Metropolitan University, Sylhet** 🇧🇩, also taking IT coursework at **Monroe University, New York** 🇺🇸.
+
+My work sits where three things meet: **machine learning**, **education in low-resource settings**, and **Bangla language technology**. I care about AI that still works for a student in a village with no stable internet — offline speech recognition, small models, and systems designed around real constraints.
+
+Next step: an **MSc in Computer Science**, then a **PhD in AI/ML research**.
+
+```yaml
+currently:
+  thesis:     "Catastrophic forgetting in medical imaging (brain MRI) — continual learning"
+  learning:   "GCI World 2026 · Data Science — Matsuo & Iwasawa Lab, University of Tokyo"
+  looking_for: "MSc / research opportunities in ML (2027 intake)"
+```
+
+---
+
+### 📄 Publications & Research
+
+| | Work | Status |
+|---|---|---|
+| 📑 | **Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs** — Codeforces activity logs from 6,927 profiles plus survey data, deployed as a proof-of-concept early-warning system | [arXiv:2608.28618](https://arxiv.org/abs/2608.28618) |
+| 📝 | **Bhasha-Setu** — an offline ASR kiosk plus a family-mediated mobile app for English learners in rural Bangladesh · *with Ali Jaker Nirob* | Conference paper · [TODO: paper link] |
+| 🧠 | **Continual learning for brain MRI** — studying catastrophic forgetting when models move from one hospital's data to another (replay, EWC) | BSc thesis · in progress |
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 CP Attrition Predictor
+Code behind my arXiv paper — flags competitive programmers at risk of quitting from contest activity, struggle time and survey signals.
+
+`Python` `scikit-learn` `Pandas`
+
+[View →](https://github.com/AZUAD-ISLAM-RUHAN)
+</td>
+<td width="50%" valign="top">
+
+#### 🩸 BloodHeros
+Blood donation platform connecting donors with recipients.
+
+`React` `Node.js` `Express` `MongoDB`
+
+[Client](https://github.com/AZUAD-ISLAM-RUHAN/BloodHeros-Client) · [Server](https://github.com/AZUAD-ISLAM-RUHAN/BloodHeros-Server)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏠 HomeNest
+Real estate web app with property listings and authentication.
+
+`React` `Firebase` `Tailwind CSS`
+
+[Client](https://github.com/AZUAD-ISLAM-RUHAN/HomeNest-Client) · [Server](https://github.com/AZUAD-ISLAM-RUHAN/HomeNest-Server)
+</td>
+<td width="50%" valign="top">
+
+#### 🐾 WarmPaws
+Winter pet-care platform with adoption features.
+
+`React` `Node.js` `Express` `MongoDB`
+
+[View →](https://github.com/AZUAD-ISLAM-RUHAN/WarmPaws)
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Tech Stack
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AZUAD-ISLAM-RUHAN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AZUAD-ISLAM-RUHAN&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <b>ML & Data</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&theme=dark" alt="ML stack" />
+</p>
+<p align="center">
+  <b>Web</b><br/>
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,firebase,tailwind&theme=dark" alt="Web stack" />
+</p>
+<p align="center">
+  <b>Tools & Research Writing</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma,latex&theme=dark" alt="Tools" />
 </p>
 
+<!-- Remove pytorch / tensorflow / linux above if you haven't actually used them. -->
+
+---
+
+### ⚔️ Competitive Programming
+
+**1000+ problems solved** across Codeforces, LeetCode and other judges.
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZUAD-ISLAM-RUHAN&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages"/>
+  <a href="https://codeforces.com/profile/AZUAD-ISLAM-RUHAN"><img src="https://img.shields.io/badge/Codeforces-AZUAD--ISLAM--RUHAN-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/AZUAD-ISLAM-RUHAN"><img src="https://img.shields.io/badge/LeetCode-AZUAD--ISLAM--RUHAN-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AZUAD-ISLAM-RUHAN&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AZUAD-ISLAM-RUHAN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZUAD-ISLAM-RUHAN&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+### 🏏 Beyond Code
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AZUAD-ISLAM-RUHAN&custom_title=Azuad's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area_color=58a6ff&title_color=FFFFFF&area=true" alt="Contribution Graph"/>
-</p>
-
----
-
-## 📦 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/AZUAD-ISLAM-RUHAN/HomeNest-Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZUAD-ISLAM-RUHAN&repo=HomeNest-Client&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" alt="HomeNest Client"/>
-  </a>
-  <a href="https://github.com/AZUAD-ISLAM-RUHAN/BloodHeros-Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZUAD-ISLAM-RUHAN&repo=BloodHeros-Client&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" alt="BloodHeros Client"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AZUAD-ISLAM-RUHAN/WarmPaws">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZUAD-ISLAM-RUHAN&repo=WarmPaws&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" alt="WarmPaws"/>
-  </a>
-</p>
+- 🏏 Cricketer — **CSE Python** team, **runner-up** at the MPL tournament
+- 👔 Founder of **AR Fashion**, a Bangladeshi saree & three-piece brand
+- 🌐 Helping build the website for **English Effect**, an English-course platform
 
 ---
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/azuad-islam-ruhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
-  </a>
-  <a href="https://codeforces.com/profile/AZUAD-ISLAM-RUHAN" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="50"/>
-  </a>
-  <a href="https://leetcode.com/AZUAD-ISLAM-RUHAN" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50"/>
-  </a>
-  <a href="https://kaggle.com/azuadislamruhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="50"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer"/>
-</p>
 
 <div align="center">
-  <i>⚡ "Engineering the future with data, logic, and deliberate precision." — Azuad Islam Ruhan</i>
+
+<i>"Engineering the future with data, logic, and deliberate precision."</i>
+
+<img src="https://komarev.com/ghpvc/?username=AZUAD-ISLAM-RUHAN&label=Profile+views&color=58a6ff&style=flat-square" alt="Profile views" />
+
 </div>
